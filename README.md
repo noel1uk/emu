@@ -25,7 +25,7 @@ The main aim of our project was to learn more about the structure of computer pr
 
 ### Documentation
 
-* [EMU API](documentation/EMU_PI.md)
+* [EMU API](documentation/EMU_API.md)
 
 * [Tokenizer documentation](documentation/tokenizer.md)
 
